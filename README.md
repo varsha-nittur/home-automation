@@ -5,7 +5,7 @@ A simple Wi-Fi home automation system that switches two appliances on and off fr
 > **Status:** Working prototype
 
 ## Demo
-
+![Home automation prototype](images/prototype.png)
 <!-- Add a photo of your own setup here: ![My setup](images/prototype.jpeg) -->
 
 ## Features
